@@ -996,7 +996,14 @@ label {
   margin: auto;
 }
 .tamid{
-  margin: auto;
+  margin-left: 6%;
+  display: inline-block;
+}
+.bred{
+  background-color: #f65e5e;
+}
+.row1{
+  color: white;
 }
 /* responsive utilities */
 @media (max-width: 767px) {
